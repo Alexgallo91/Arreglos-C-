@@ -1,0 +1,5 @@
+c:\users\fsociety91\documents\visual studio 2012\Projects\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+c:\users\fsociety91\documents\visual studio 2012\Projects\Arreglos\Arreglos\bin\Debug\Arreglos.exe
+c:\users\fsociety91\documents\visual studio 2012\Projects\Arreglos\Arreglos\bin\Debug\Arreglos.pdb
+c:\users\fsociety91\documents\visual studio 2012\Projects\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+c:\users\fsociety91\documents\visual studio 2012\Projects\Arreglos\Arreglos\obj\Debug\Arreglos.pdb
