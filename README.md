@@ -1,2 +1,2 @@
-# Arreglos-C-
+# Arreglos en C Sharp
 Arreglos en C#
